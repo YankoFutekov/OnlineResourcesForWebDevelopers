@@ -66,7 +66,7 @@
 * In Browser Wireframing - https://app.moqups.com
 * Very Basic In Browser Wireframing - https://wireframe.cc
 
-## SPEED TEST:
+## WEBSITE SPEED TEST:
 * Speed & Performance Testing - https://tools.keycdn.com/speed
 * Pingdom Speed Test - https://tools.pingdom.com/
 
