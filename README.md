@@ -47,8 +47,11 @@
 ## SNIPPET TOOLS:
 * Snippet Manager - https://gist.github.com
 * Snippet Manager - https://pastebin.com
+* Snippet Manager - https://codeclippet.com
 
 ## COLOR & DESIGN:
+* Cool Backgrounds - https://coolbackgrounds.io/
+* Paletton - http://paletton.com
 * Create Color Schemes - https://color.hailpixel.com
 * Get Color Schemes of Websites - http://stylifyme.com
 * Create Gradients - https://uigradients.com
