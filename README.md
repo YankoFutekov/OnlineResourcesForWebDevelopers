@@ -70,5 +70,9 @@
 * Speed & Performance Testing - https://tools.keycdn.com/speed
 * Pingdom Speed Test - https://tools.pingdom.com/
 
+## WYSIWYG Text Editor
+
+* CKEditor - https://ckeditor.com/ckeditor-4/
+
 ## OTHER:
 * Public API Resources - https://github.com/toddmotto/public-apis?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more
