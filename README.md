@@ -76,7 +76,11 @@
 
 ## JS Charts
 
-* Canvas.JS Charts https://canvasjs.com/
+* Canvas.JS Charts - https://canvasjs.com/
+
+## MongoDB Hosting
+
+* Mlab - https://mlab.com/welcome/
 
 ## OTHER:
 * Public API Resources - https://github.com/toddmotto/public-apis?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more
