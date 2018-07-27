@@ -86,5 +86,9 @@
 
 * Heroku - https://www.heroku.com/
 
+## Resume Editor
+
+* Enhancv Resume Editor - https://app.enhancv.com/resume/new
+
 ## OTHER:
 * Public API Resources - https://github.com/toddmotto/public-apis?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more
