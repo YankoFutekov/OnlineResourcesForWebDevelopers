@@ -29,6 +29,7 @@
 
 ## IMAGE COMPRESSION:
 * Compress All Images - https://compressor.io/compress
+* Compress All Images - http://compressimage.toolur.com/
 * Compress JPG - http://jpeg-optimizer.com/
 * Compress PNG - https://tinypng.com/
 
