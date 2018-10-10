@@ -93,7 +93,7 @@
 
 ## Icons Library
 
-* The noun project - https://thenounproject.com/
+* The Noun Project - https://thenounproject.com/
 
 ## Simuliar Online Resources Collection
 
