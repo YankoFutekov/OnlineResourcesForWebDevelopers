@@ -91,5 +91,17 @@
 
 * Enhancv Resume Editor - https://app.enhancv.com/resume/new
 
+## Icons Library
+
+* The noun project - https://thenounproject.com/
+
+## Simuliar Online Resources Collection
+
+* Web Developer Resources - https://andricksantos.github.io/awesome-web-development/
+
+## Advanced CSS Tips & Tricks
+
+* CSS - https://medium.com/@peedutuisk/lesser-known-css-quirks-oddities-and-advanced-tips-css-is-awesome-8ee3d16295bb
+
 ## OTHER:
 * Public API Resources - https://github.com/toddmotto/public-apis?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more
