@@ -92,7 +92,7 @@
 * Enhancv Resume Editor - https://app.enhancv.com/resume/new
 
 ## Icons Library
-
+* Logo Maker - https://logomakr.com/
 * The Noun Project - https://thenounproject.com/
 
 ## Simuliar Online Resources Collection
