@@ -32,6 +32,8 @@
 * Compress All Images - http://compressimage.toolur.com/
 * Compress JPG - http://jpeg-optimizer.com/
 * Compress PNG - https://tinypng.com/
+* Image Resizer - https://resizemyimg.com/
+* Darkening Images - https://pinetools.com/darken-image
 
 ## VALIDATION & COMPATIBILITY:
 * Validate HTML - https://validator.w3.org
